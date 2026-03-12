@@ -8,7 +8,7 @@ on:
       - "fix/**"
       - "chore/**"
   pull_request:
-    branches:
+    branches: 
       - main
 
 jobs:
